@@ -9,6 +9,8 @@
 
 - 📄 Curious about my experiences? **[Check my LinkedIn](https://www.linkedin.com/in/jesse-koldewijn-5914531a3)**
 
+- :globe_with_meridians: You could also check out my personal website over on **[JKinsight](https://jkinsight.nl)**
+
 <h3 align="left">Find me on:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jesse-koldewijn-5914531a3" target="blank">:desktop_computer:LinkedIn</a> 
