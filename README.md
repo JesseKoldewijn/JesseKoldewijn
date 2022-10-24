@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessekoldewijn&label=Profile%20views&color=0e75b6&style=flat" alt="jessekoldewijn" /> </p>
 
-- 🌱 I’m currently learning **TypeScript, GraphQL and C++**
-
 - :briefcase: Owner of **[HardwareHulp](https://hardwarehulp.nl)** and **[GlitchTech Developments](https://glitchtech.eu)**
 
 - 📄 Curious about my experiences? **[Check my LinkedIn](https://www.linkedin.com/in/jesse-koldewijn-5914531a3)**
