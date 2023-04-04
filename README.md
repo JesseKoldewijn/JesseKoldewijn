@@ -16,5 +16,5 @@
 
 <hr />
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesseKoldewijn&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JesseKoldewijn&layout=compact&theme=github_dark&langs_count=6&hide_border=true)
+![My GitHub Stats](https://glitchtech-readme.vercel.app/api?username=JesseKoldewijn&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
+![Top Languages](https://glitchtech-readme.vercel.app/api/top-langs/?username=JesseKoldewijn&layout=compact&theme=github_dark&langs_count=6&hide_border=true)
