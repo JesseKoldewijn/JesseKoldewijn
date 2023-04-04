@@ -13,8 +13,3 @@
 <p align="left">
   <a href="https://linkedin.com/in/jesse-koldewijn-5914531a3" target="blank">:desktop_computer:LinkedIn</a> 
 </p>
-
-<hr />
-
-![My GitHub Stats](https://glitchtech-readme.vercel.app/api?username=JesseKoldewijn&theme=github_dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![Top Languages](https://glitchtech-readme.vercel.app/api/top-langs/?username=JesseKoldewijn&layout=compact&theme=github_dark&langs_count=6&hide_border=true)
