@@ -11,5 +11,5 @@
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jesse-koldewijn-5914531a3" target="blank">:desktop_computer:LinkedIn</a> 
+  <a href="https://linkedin.com/in/jesse-koldewijn-5914531a3" target="blank">:desktop_computer: LinkedIn</a> 
 </p>
