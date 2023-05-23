@@ -1,4 +1,4 @@
-<h1 align="center">Hello there, I'm Jesse Koldewijn <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" /></h1> 
+<h1 align="center">Hello there, I'm Jesse Koldewijn!</h1> 
 <h3 align="center">A passionate software developer, gamer and volunteer at <a href="https://stackup.org" target="blank">StackUp</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jessekoldewijn&label=Profile%20views&color=0e75b6&style=flat" alt="jessekoldewijn" /> </p>
