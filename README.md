@@ -20,3 +20,5 @@
 <a href="https://orm.drizzle.team"><img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" width="50" height="50" alt="Drizzle-ORM" /></a>
 <a href="https://prisma.io"><img src="https://www.prisma.io/images/favicon-32x32.png" width="50" height="50" alt="Prisma" /></a>
 <a href="https://planetscale.com"><img src="https://avatars.githubusercontent.com/u/35612527?s=200&v=4" width="50" height="50" alt="PlanetScale" /></a>
+
+![Top Langs](https://jesse-koldewijn-github-stats.vercel.app/api/top-langs/?username=JesseKoldewijn&langs_count=12&layout=compact&theme=github_dark)
