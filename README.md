@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Jesse!</h1> 
-<h3 align="center">A passionate software engineer, gamer and volunteer at <a href="https://stackup.org" target="blank">StackUp</a></h3>
+<h3 align="center">A passionate software engineer, gamer and volunteer at <a href="https://stackup.org" target="blank">Stack Up</a></h3>
 
 <img src="https://komarev.com/ghpvc/?username=jessekoldewijn&label=Profile%20views&color=0e75b6&style=flat" alt="jessekoldewijn" />
 
