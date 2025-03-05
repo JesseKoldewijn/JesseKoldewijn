@@ -3,9 +3,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=jessekoldewijn&label=Profile%20views&color=0e75b6&style=flat" alt="jessekoldewijn" />
 
-### Where can you find me?
-- :briefcase: Owner of **[HardwareHulp](https://hardwarehulp.nl)**, **[GlitchTech Developments](https://glitchtech.eu)** and **[ShiftCode Developments](https://github.com/ShiftCodeEU)**
-
 - 📄 Curious about my experiences? **[Check my LinkedIn](https://www.linkedin.com/in/jesse-koldewijn-5914531a3)**
 
 - :globe_with_meridians: You could also check out my personal website over on **[JKinsight](https://jkinsight.nl)**
