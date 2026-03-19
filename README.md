@@ -5,7 +5,7 @@
 
 - 📄 Curious about my experiences? **[Check my LinkedIn](https://www.linkedin.com/in/jesse-koldewijn-5914531a3)**
 
-- :globe_with_meridians: You could also check out my personal website over on **[JKinsight](https://jkinsight.nl)**
+- :globe_with_meridians: You could also check out my personal website over on **[Jereko](https://jereko.dev)**
 
 ### Tech I heavily use
 <a href="https://www.typescriptlang.org"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="50" height="50" alt="Typescript" /></a>
